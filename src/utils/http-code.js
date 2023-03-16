@@ -7,4 +7,4 @@ const HttpCode = {
   INTERNAL_ERROR: 500,
 };
 
-export default HttpCode;
+module.exports = HttpCode;
